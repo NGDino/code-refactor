@@ -1,3 +1,12 @@
+# my edits
+For this assignment I cleaned up the HTML and changed many of the div elements to more descriptive ones.  
+
+I then took the very repetative CSS code and made it more concise using classes and elements that would make changes to multiple things at once rather than doing everything seperately
+
+<img src="./assets/images/screenshot-1.jpg"/>
+<img src="./assets/images/screenshot-2.jpg"/>
+<img src="./assets/images/screenshot-3.jpg"/>
+
 # 01 HTML CSS Git: Code Refactor
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
